@@ -1,0 +1,24 @@
+/* ------------
+Container styles
+------------ */
+
+.container {
+  display: flex;
+  background: url('assets/background-sw.jpg') no-repeat center;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ---------
+Title styles
+---------- */
+
+.title {
+    display: flex;
+    font-size: 4em;
+    font-weight: bold;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
